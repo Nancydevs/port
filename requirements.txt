@@ -1,2 +1,3 @@
 deso
 arweave-python-client
+python-decouple
