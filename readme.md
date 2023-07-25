@@ -1,0 +1,1 @@
+This is my first github repo and i learnt to push stuff to a repo using gitbash :)
